@@ -1,11 +1,11 @@
 # Yumilo
 
-Android 影视播放器，此仓库仅用于分发已封装的 APK 安装包与更新说明。
+Android 影视播放器。 此仓库仅用于分发已封装的 APK 安装包与更新说明。
 
 ## 下载
 
-**[直接下载安装包：Yumilo 0.6.43](https://github.com/LLL198/Yumilo/releases/download/v0.6.43/Yumilo-0.6.43.apk)**
+**[直接下载安装包：Yumilo 0.6.44](https://github.com/LLL198/Yumilo/releases/download/v0.6.44/Yumilo-0.6.44.apk)**
 
-已安装 0.5.47 或以后版本，可在应用的设置中检查更新。
+安装此包后，可在应用设置中检查后续更新。
 
 GitHub 自动生成的 Source code 压缩包仅含下载说明 README，没有播放器源码。
