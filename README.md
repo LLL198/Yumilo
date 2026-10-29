@@ -4,7 +4,7 @@ Android 影视播放器。 此仓库仅用于分发已封装的 APK 安装包与
 
 ## 下载
 
-**[直接下载安装包：Yumilo 0.6.46](https://github.com/LLL198/Yumilo/releases/download/v0.6.46/Yumilo-0.6.46.apk)**
+**[直接下载安装包：Yumilo 0.6.47](https://github.com/LLL198/Yumilo/releases/download/v0.6.47/Yumilo-0.6.47.apk)**
 
 安装此包后，可在应用设置中检查后续更新。
 
