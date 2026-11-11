@@ -9,7 +9,7 @@
 - 🎮 **双核播放器** - 支持双播放内核切换、倍速播放、多音轨/字幕切换、字幕延迟调整、画面比例与片头片尾跳过
 - 🔄 **进度同步与 Trakt** - 自动同步 Emby 播放进度，支持连接 Trakt 管理追更、查看播出日历与同步观看记录
 - 🌐 **多源扩展支持** - 除 Emby 外，支持挂载网盘、本地视频、自定义组件、TVBox 及 IPTV 资源
-- 🎨 **个性化外观** - 提供默认、磨砂玻璃和液态玻璃风格，支持深浅主题、海报背景与自定义徽章包
+- 🎨 **个性化外观** - 提供默认、毛玻璃和液态玻璃风格，支持深浅主题、海报背景与自定义徽章包
 - ☁️ **无感备份还原** - 支持通过本地文件或 WebDAV 一键备份账号、设置、扩展源与播放记录
 
 ## 技术栈
@@ -28,9 +28,11 @@
 
 | 平台设备 | 下载入口 | 安装说明 |
 | --- | --- | --- |
-| `Android 手机/平板` | [Yumilo Releases](https://github.com/LLL198/Yumilo/releases/latest) | 下载 `.apk` 安装包直接安装（覆盖安装可保留数据） |
+| `Android 手机/平板` | [Yumilo Releases](https://github.com/LLL198/Yumilo/releases/latest) | 下载 `.apk` 安装包直接安装（相同包名覆盖安装可保留数据） |
 | `Android TV / 盒子` | [YUMILO-TV Releases](https://github.com/LLL198/YUMILO-TV/releases/latest) | 独立电视版界面，支持手机扫码快速配置服务器 |
 | `Windows 电脑` | [YUMILO-WINDOWS Releases](https://github.com/LLL198/YUMILO-WINDOWS/releases/latest) | 下载压缩包，解压后运行 `Yumilo.exe` |
+
+手机端从 1.0.1 起使用新包名。GitHub 旧版 0.6.58 用户请先在旧版「设置 → 备份与还原」导出备份，再安装新版并还原；迁移完成前请保留旧版。已使用新包名的本地版本可直接覆盖安装。
 
 ## 使用说明
 
