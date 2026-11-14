@@ -16,19 +16,11 @@
 
 ## 技术栈
 
-**Android**
 - **UI 框架**：Android 原生 View + Canvas
 - **播放器**：AndroidX Media3 + MPV + FFmpeg
 - **弹幕引擎**：自定义 Canvas 弹幕渲染
 - **网络**：OkHttp
 - **图片加载**：Glide
-
-**Window**
-- **UI 框架**：.NET 8 WPF
-- **播放器**：MPV + FFmpeg
-- **弹幕引擎**：DirectComposition + Direct3D 11 自绘合成
-- **网络**：HttpClient + HttpListener
-- **图片加载**：WPF BitmapImage + 自建缓存
 
 ## 下载安装
 
